@@ -2,8 +2,8 @@
   "name": "22Dec",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/22Dec.git",
+    "ssh": "git@github.com:grgshiji/22Dec.git",
     "branch": "block_22Dec"
   },
   "dependencies": {
