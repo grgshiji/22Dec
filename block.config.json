@@ -1,0 +1,36 @@
+{
+  "name": "22Dec",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_22Dec"
+  },
+  "dependencies": {
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    }
+  },
+  "blockId": "fXqQH66T0OpiUIaMfI-UZ",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
